@@ -13,6 +13,7 @@ Key Metrics Observed
     Fully Fuctional Pumps – F1: 0.85 | Precision: 0.81 | Recall: 0.89
     Functional But Need repairs - F1: 0.41 | Precision: 0.55 | Recall: 0.33
     Non-Functional - F1: 0.81 | Precision: 0.84 | Recall: 0.78
+    
 Conclusion: The class of pumps that are functioning but need repairs is the hardest to predict
 
 Key takeaways for the Management Company
@@ -23,6 +24,7 @@ Key Predictors of Pump Failure:
     Region – Geographic disparities influence functionality
     Management Type – Community or institutional oversight impacts performance
     Installer – Quality and consistency vary by installation provider
+    
 The model enables proactive identification of high-risk pumps, allowing stakeholders to forecast failures before they occur and prioritize preventive maintenance
 
 Recommendations
